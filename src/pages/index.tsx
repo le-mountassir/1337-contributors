@@ -40,6 +40,9 @@ const IndexPage: React.FC = () => {
     <Layout>
       <div className="bg-gray-1000">
         <div className=" mx-auto max-w-screen-xl flex flex-col text-center items-center p-28 ">
+          <h2 className="font-sora text-md md:text-lg lg:text-xl mb-4 text-gray-500">
+            Our Contributors
+          </h2>
           <h1 className="font-sora text-4xl md:text-5xl lg:text-6xl">
             The <span className="text-effect-1">Brilliant Minds</span> Powering{" "}
             <span className="text-effect-1">1337's Journey</span> of{" "}
