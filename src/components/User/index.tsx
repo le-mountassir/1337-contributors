@@ -34,7 +34,7 @@ const User: FC<Props> = ({ firstName, lastName, github, bio }) => {
             className=" w-full h-full"
           />
         </div>
-        <h3 className="text-xl bg-gray-1000 py-1 px-3 rounded capitalize  font-sora">
+        <h3 className="text-xl bg-gray-1000 py-1 px-2 rounded capitalize  font-sora">
           <span className="text-gray-400 mr-2">
             <i className="fa-solid fa-less-than"></i>
           </span>
